@@ -1,10 +1,14 @@
 # Smart Library System - Microservices Architecture
 
+**Reference Project for Distributed Systems Lab Course**
+
 This project implements a Smart Library System using a microservices architecture with Python FastAPI. The system is divided into three independent services, each responsible for a specific domain:
 
 1. **User Service** - Handles user registration, profile management, and user-related queries
 2. **Book Service** - Manages book inventory, search, and updates to availability
 3. **Loan Service** - Issues and returns books by communicating with both User Service and Book Service
+
+For full details about this laboratory project, please visit: [https://academics.mohibulalam.xyz](https://academics.mohibulalam.xyz)
 
 ## Architecture Overview
 
